@@ -12,7 +12,7 @@
 
 ## How to run it
 
-    navigate to *location of py file*
+    navigate to calculator.py, found in the current working directory
 
     Enter the full calculation string. Eg: 5(3+1/2)
     The program will recognise the use of brackets, and employ BIDMAS to calculate the result.
